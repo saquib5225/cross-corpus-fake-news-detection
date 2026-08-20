@@ -50,3 +50,7 @@ The application is configuration-ready for Streamlit Community Cloud but has **n
 ## Integrity boundary
 
 Only Stage 7 application and deployment documentation was changed. No Stage 1–6 artefact, frozen model, checkpoint, validated metric, prediction, table, figure, report, or dataset was modified.
+
+## Post-deployment status — 20 August 2026
+
+This configuration and local-validation record remains a historical pre-deployment document. The GitHub repository was subsequently pushed on the `main` branch at commit `fecfcf91aee3e302b865caf554377921dad16303`, and the Streamlit Community Cloud deployment was successfully completed and manually verified as live. The deployment used Python 3.14. The deployed application retains its 13 navigation sections and four-model frozen inference demonstration. No research artefacts were changed as part of deployment. GitHub's Random Forest file-size message remained a recommendation warning only and did not prevent the repository push or deployment. The existing scientific limitations and frozen-result framing remain unchanged.

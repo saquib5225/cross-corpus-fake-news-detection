@@ -38,3 +38,7 @@ streamlit run app.py
 ```
 
 The three classical models and TF-IDF vectorizer are loaded from this repository. RoBERTa is loaded lazily from the verified public Hugging Face repository `Cancer5225/fake-news-detection-roberta`, pinned in `app.py` to immutable revision `5bd82453a54dfa7e25e41f9323228986bb2b310e`; no token or Streamlit secret is required. Its downloaded weight is SHA-256 verified before it is loaded. See `results/STREAMLIT_DEPLOYMENT_GUIDE.md` before deployment.
+
+## Deployment
+
+The GitHub repository is `https://github.com/saquib5225/cross-corpus-fake-news-detection` on the deployed `main` branch. The Streamlit Community Cloud deployment was successfully completed and manually verified as live on 20 August 2026 using Python 3.14. The application is a research demonstration using frozen research results; live predictions are not factual verification.

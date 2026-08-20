@@ -67,3 +67,6 @@ No research artefact, model, checkpoint, metric, prediction, table, figure, data
 
 The exact next manual step is to create an empty GitHub repository, initialise Git locally, add that remote, and selectively stage the required deployment file set while reviewing git status. Do not push the ignored datasets, local checkpoints, secrets or runtime artefacts. Do not deploy to Streamlit Community Cloud in this stage.
 
+## Post-deployment status — 20 August 2026
+
+This preparation record remains a historical pre-deployment document. Its described GitHub and Streamlit steps were subsequently completed: the repository was successfully pushed on the `main` branch at commit `fecfcf91aee3e302b865caf554377921dad16303`, and the Streamlit Community Cloud deployment was successfully completed and manually verified as live. The deployment used Python 3.14. The deployed application retains its 13 navigation sections and four-model frozen inference demonstration. No research artefacts were changed as part of deployment. GitHub's Random Forest file-size message remained a recommendation warning only and did not prevent the repository push or deployment. The existing scientific limitations and frozen-result framing remain unchanged.
