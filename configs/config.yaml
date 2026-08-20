@@ -1,0 +1,26 @@
+project:
+  seed: 42
+  source_isot_dir: News_Dataset
+  welfake_source_url: https://zenodo.org/records/4561253/files/WELFake_Dataset.csv?download=1
+data:
+  text_representation: "title + text"
+  train_fraction: 0.8
+  validation_fraction: 0.1
+  test_fraction: 0.1
+  remove_exact_duplicate_text: true
+tfidf:
+  ngram_range: [1, 2]
+  min_df: 2
+  max_df: 0.95
+  max_features: 50000
+models:
+  naive_bayes: {alpha: [0.1, 0.5, 1.0]}
+  logistic_regression: {C: [0.1, 1.0, 10.0], max_iter: 2000}
+  random_forest: {n_estimators: [200], max_depth: [null, 30], min_samples_split: [2, 5], max_features: [sqrt]}
+roberta:
+  model_name: roberta-base
+  max_length: 192
+  batch_size: 4
+  gradient_accumulation_steps: 4
+  learning_rate: 2.0e-5
+  epochs: 3

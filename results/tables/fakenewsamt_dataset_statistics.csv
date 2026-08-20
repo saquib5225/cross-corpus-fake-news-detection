@@ -1,0 +1,10 @@
+Dataset,Measure,Value
+FakeNewsAMT,released_records,480
+FakeNewsAMT,title_only_excluded_records,50
+FakeNewsAMT,evaluated_nonempty_body_records,430
+FakeNewsAMT,fake_records_project_label_0,190
+FakeNewsAMT,real_records_project_label_1,240
+FakeNewsAMT,exact_body_overlap_with_ISOT,0
+FakeNewsAMT,normalised_body_overlap_with_ISOT,0
+FakeNewsAMT,exact_title_overlap_with_ISOT,0
+FakeNewsAMT,normalised_title_overlap_with_ISOT,0

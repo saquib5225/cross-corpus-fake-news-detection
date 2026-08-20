@@ -1,0 +1,19 @@
+{
+  "timestamp_utc": "2026-08-20T18:07:53.947708+00:00",
+  "manifest_used": "results/stage4_pre_analysis_manifest.json",
+  "number_of_files_checked": 225,
+  "modified_files": [
+    {
+      "path": "README.md",
+      "expected_sha256": "6F0997BEE30B0BD23D09BC256DF4FBE603009D3974233EE73EFBD990C10F2BAC",
+      "actual_sha256": "BFC8E3B3D34254664363400468A447939EB428D19DF5BFE3DF60700998EFE203"
+    }
+  ],
+  "missing_files": [],
+  "unchanged_files": {
+    "count": 224,
+    "all_manifest_entries_unchanged": false
+  },
+  "overall_status": "fail",
+  "confirmation_no_frozen_experiment_artefacts_modified": false
+}

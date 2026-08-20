@@ -1,0 +1,126 @@
+Model,association,rank,feature,importance_or_weight
+Logistic Regression,real_associated,1,reuters,15.916233434649193
+Logistic Regression,real_associated,2,said,15.447135602012919
+Logistic Regression,real_associated,3,on,7.363452095663318
+Logistic Regression,real_associated,4,washington reuters,7.081507795163485
+Logistic Regression,real_associated,5,said on,6.0700953671602145
+Logistic Regression,real_associated,6,washington,4.822323232142257
+Logistic Regression,real_associated,7,in,4.698163213203072
+Logistic Regression,real_associated,8,on wednesday,4.497202231713762
+Logistic Regression,real_associated,9,reuters the,4.3115651099845085
+Logistic Regression,real_associated,10,on tuesday,4.134334762440572
+Logistic Regression,real_associated,11,on thursday,4.121001869713461
+Logistic Regression,real_associated,12,president donald,4.096139339915907
+Logistic Regression,real_associated,13,republican,4.091983711033224
+Logistic Regression,real_associated,14,on friday,3.769833028530208
+Logistic Regression,real_associated,15,said in,3.734456748350786
+Logistic Regression,real_associated,16,on monday,3.5863108893519207
+Logistic Regression,real_associated,17,reuters president,3.4742985982938395
+Logistic Regression,real_associated,18,wednesday,3.352831658309285
+Logistic Regression,real_associated,19,minister,3.247503945923083
+Logistic Regression,real_associated,20,thursday,3.1862982034486866
+Logistic Regression,real_associated,21,tuesday,3.048958706268094
+Logistic Regression,real_associated,22,had,2.990099598706436
+Logistic Regression,real_associated,23,presidential,2.9694190194328187
+Logistic Regression,real_associated,24,its,2.9608955094479574
+Logistic Regression,real_associated,25,told,2.635816564652013
+Logistic Regression,fake_associated,1,video,-9.266354619905599
+Logistic Regression,fake_associated,2,via,-7.6324926156126836
+Logistic Regression,fake_associated,3,this,-6.0259775815174095
+Logistic Regression,fake_associated,4,is,-5.1680865220526755
+Logistic Regression,fake_associated,5,just,-4.999897697778169
+Logistic Regression,fake_associated,6,us,-4.838075663934971
+Logistic Regression,fake_associated,7,hillary,-4.70524755777446
+Logistic Regression,fake_associated,8,that,-4.4799137644407026
+Logistic Regression,fake_associated,9,read more,-4.3387303861215
+Logistic Regression,fake_associated,10,image,-4.265101517168106
+Logistic Regression,fake_associated,11,gop,-4.239032469495784
+Logistic Regression,fake_associated,12,you,-4.008846301023721
+Logistic Regression,fake_associated,13,featured image,-3.9999687766614067
+Logistic Regression,fake_associated,14,read,-3.9955907872151655
+Logistic Regression,fake_associated,15,president trump,-3.9812096005934023
+Logistic Regression,fake_associated,16,featured,-3.9676517197635044
+Logistic Regression,fake_associated,17,obama,-3.8882692759411746
+Logistic Regression,fake_associated,18,watch,-3.8217943816224706
+Logistic Regression,fake_associated,19,image via,-3.6245166138463407
+Logistic Regression,fake_associated,20,com,-3.5689639405283837
+Logistic Regression,fake_associated,21,mr,-3.487717761687379
+Logistic Regression,fake_associated,22,the us,-3.4820307524469176
+Logistic Regression,fake_associated,23,america,-3.4505283197329852
+Logistic Regression,fake_associated,24,even,-2.9659519014671174
+Logistic Regression,fake_associated,25,getty,-2.9235839375360895
+Naive Bayes,real_associated,1,washington reuters,5.359521808958741
+Naive Bayes,real_associated,2,myanmar,4.902209751099861
+Naive Bayes,real_associated,3,reuters the,4.8354021165430385
+Naive Bayes,real_associated,4,reuters president,4.779380652360368
+Naive Bayes,real_associated,5,rohingya,4.616096966364536
+Naive Bayes,real_associated,6,reuters,4.482099688718211
+Naive Bayes,real_associated,7,catalan,4.289963915963154
+Naive Bayes,real_associated,8,catalonia,4.184101235208917
+Naive Bayes,real_associated,9,moscow reuters,4.14110196095311
+Naive Bayes,real_associated,10,hariri,4.0374497522648465
+Naive Bayes,real_associated,11,london reuters,4.007102791791008
+Naive Bayes,real_associated,12,mugabe,3.9042914907307757
+Naive Bayes,real_associated,13,told reuters,3.870526395996288
+Naive Bayes,real_associated,14,reuters republican,3.8327345374198405
+Naive Bayes,real_associated,15,ministry said,3.825072687883031
+Naive Bayes,real_associated,16,puigdemont,3.7994508625257417
+Naive Bayes,real_associated,17,york reuters,3.7811661466402047
+Naive Bayes,real_associated,18,rakhine,3.7718720711117033
+Naive Bayes,real_associated,19,zuma,3.731852135855984
+Naive Bayes,real_associated,20,spd,3.670394859136909
+Naive Bayes,real_associated,21,berlin reuters,3.6173190383183798
+Naive Bayes,real_associated,22,ria,3.576147506160316
+Naive Bayes,real_associated,23,beijing reuters,3.542556097365532
+Naive Bayes,real_associated,24,kirkuk,3.4399118654475913
+Naive Bayes,real_associated,25,house washington,3.4350616807944014
+Naive Bayes,fake_associated,1,featured image,-5.585293598947205
+Naive Bayes,fake_associated,2,twitter com,-5.504545033480375
+Naive Bayes,fake_associated,3,image via,-5.480706639888527
+Naive Bayes,fake_associated,4,pic twitter,-5.447734597911227
+Naive Bayes,fake_associated,5,pic,-5.309202820217214
+Naive Bayes,fake_associated,6,https,-5.232125103847584
+Naive Bayes,fake_associated,7,getty images,-5.156226630099063
+Naive Bayes,fake_associated,8,getty,-5.122599183966871
+Naive Bayes,fake_associated,9,https co,-4.8484077528008225
+Naive Bayes,fake_associated,10,screen capture,-4.425026199474679
+Naive Bayes,fake_associated,11,21wire,-4.304897381417103
+Naive Bayes,fake_associated,12,featured,-4.275868135260408
+Naive Bayes,fake_associated,13,js,-4.2224614897396044
+Naive Bayes,fake_associated,14,century wire,-4.208247183199731
+Naive Bayes,fake_associated,15,2017 realdonaldtrump,-4.157113046103589
+Naive Bayes,fake_associated,16,read more,-4.137086781654
+Naive Bayes,fake_associated,17,https www,-4.023557601743137
+Naive Bayes,fake_associated,18,screenshot,-3.985034254042734
+Naive Bayes,fake_associated,19,gop,-3.951353807686016
+Naive Bayes,fake_associated,20,www youtube,-3.950268875971343
+Naive Bayes,fake_associated,21,com watch,-3.9501467519166216
+Naive Bayes,fake_associated,22,video screen,-3.937573079321819
+Naive Bayes,fake_associated,23,youtube com,-3.898431688079583
+Naive Bayes,fake_associated,24,the gop,-3.882563277245268
+Naive Bayes,fake_associated,25,below featured,-3.852341186739263
+Random Forest,real_associated,1,reuters,0.06883874777613246
+Random Forest,real_associated,2,image,0.020471850634256165
+Random Forest,real_associated,3,said,0.01999029063478235
+Random Forest,real_associated,4,video,0.016118957241459585
+Random Forest,real_associated,5,said on,0.014646570181933747
+Random Forest,real_associated,6,via,0.014261195885790482
+Random Forest,real_associated,7,featured image,0.012175740240831885
+Random Forest,real_associated,8,washington reuters,0.010275745170989998
+Random Forest,real_associated,9,featured,0.010019352804178283
+Random Forest,real_associated,10,image via,0.009123388249291011
+Random Forest,real_associated,11,watch,0.007784552931005595
+Random Forest,real_associated,12,on,0.007746815689166004
+Random Forest,real_associated,13,you,0.00722395416198114
+Random Forest,real_associated,14,washington,0.00716496433333876
+Random Forest,real_associated,15,just,0.006732501625522196
+Random Forest,real_associated,16,this,0.005956560793380806
+Random Forest,real_associated,17,is,0.005953642356730291
+Random Forest,real_associated,18,getty,0.005902911696658314
+Random Forest,real_associated,19,here,0.005611092727486635
+Random Forest,real_associated,20,com,0.0055904741520929335
+Random Forest,real_associated,21,said in,0.005534612888688958
+Random Forest,real_associated,22,getty images,0.00545709469955915
+Random Forest,real_associated,23,its,0.005362904742857698
+Random Forest,real_associated,24,what,0.005229135062751048
+Random Forest,real_associated,25,said the,0.005181166921299581

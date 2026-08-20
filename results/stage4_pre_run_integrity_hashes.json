@@ -1,0 +1,22 @@
+﻿[
+    {
+        "Path":  "C:\\Dissertation\\results\\STAGE3_FINAL_INTEGRITY_AUDIT.md",
+        "Hash":  "5EC938EBFAE86AB8A7961AF3266CF441CBAC75F62CB83F5DAF5AA738198055E8"
+    },
+    {
+        "Path":  "C:\\Dissertation\\results\\stage3_analysis_stdout.log",
+        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+        "Path":  "C:\\Dissertation\\results\\stage3_analysis_stderr.log",
+        "Hash":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+        "Path":  "C:\\Dissertation\\data\\processed\\isot_test.csv",
+        "Hash":  "40F87DAE0BD5478903B6B54C824E2596C553EAE6BB13B7DD77D19E873A539656"
+    },
+    {
+        "Path":  "C:\\Dissertation\\configs\\config.yaml",
+        "Hash":  "3A89255C12BFD606E66531D2AC19E1AE57CCDCBD76DF0D165CBD2BDB813BE88A"
+    }
+]

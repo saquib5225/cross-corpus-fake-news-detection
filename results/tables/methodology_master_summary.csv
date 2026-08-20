@@ -1,0 +1,6 @@
+Area,Final protocol
+Data and splits,ISOT title + text; cleaning and exact duplicate handling; stratified 80/10/10 train/validation/test; seed 42.
+Classical models,"Saved Naive Bayes, Logistic Regression and Random Forest; TF-IDF (1,2)-grams, min_df=2, max_df=0.95, max_features=50000, fitted on ISOT train only."
+RoBERTa,roberta-base; max length 64; batch 2; accumulation 8; effective batch 16; fp16; no gradient checkpointing; ISOT-only fitting.
+Selection and evaluation,"ISOT validation selected the checkpoint/early stopping; selected frozen model evaluated on ISOT test, then FakeNewsAMT (430 usable records)."
+Statistics and Stage 4,Six exact two-sided paired McNemar tests with Holm correction; post-hoc analyses read frozen predictions/models only; token Integrated Gradients not completed.

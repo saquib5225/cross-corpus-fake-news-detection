@@ -1,0 +1,40 @@
+{
+  "analysis_script": "scripts\\run_final_model_comparison.py",
+  "timestamp_utc": "2026-08-20T16:54:34.723702+00:00",
+  "models": [
+    "Naive Bayes",
+    "Logistic Regression",
+    "Random Forest",
+    "RoBERTa"
+  ],
+  "datasets": {
+    "ISOT_test": 3911,
+    "FakeNewsAMT_external": 430
+  },
+  "metrics": "macro-averaged precision, recall and F1; ROC-AUC from probability_real; generalisation gap = ISOT test Macro-F1 - FakeNewsAMT Macro-F1",
+  "statistical_methods": "six exact two-sided McNemar tests with Holm correction; RoBERTa versus each baseline on paired prediction files",
+  "random_seeds": {
+    "RoBERTa": 42,
+    "bootstrap": null
+  },
+  "software": {
+    "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+    "pandas": "3.0.5",
+    "numpy": "2.4.6",
+    "scikit_learn": "1.9.0",
+    "scipy": "1.17.1"
+  },
+  "source_files_sha256": {
+    "results\\predictions\\naive_bayes_isot.csv": "9f726c2507cc8dbf03d13fa3996867d4bd0cabe4d3b60d733f61af546b61c80f",
+    "results\\predictions\\stage2a_naive_bayes_fakenewsamt.csv": "88b364e77ad30bfb88986ab6a35f94c93aef2b1bfc2890b8c1ddce18a35d7185",
+    "results\\predictions\\logistic_regression_isot.csv": "45a810756c50025643c0a64f9d5ae557c98de5ebb4f67c6ab7ad0a1d89f1fa9a",
+    "results\\predictions\\stage2a_logistic_regression_fakenewsamt.csv": "f24de26930e5c1d8fb1fb68f1c683e69e7afa6a79175e9fd9ec082a778f31794",
+    "results\\predictions\\random_forest_isot.csv": "54db2357537241a244125a4c76d46a51c10a163267553519594e55723632fb33",
+    "results\\predictions\\stage2a_random_forest_fakenewsamt.csv": "0584c085e1d7ed08e18633888988dca5fe56e3eb86c4b71b593110900d362e06",
+    "results\\roberta\\predictions_isot_test.csv": "f861e8903f514ddceae92bedda018f491775466049aace24645fadf429eba3af",
+    "results\\roberta\\predictions_fakenewsamt.csv": "e80dac155d5ef21dfb27a6878b4416c3fbf5414446a4630462eb5f5894b7a635"
+  },
+  "selected_checkpoint_sha256": "6549528157c51bb2132b8c9fd730ee3f94f15f7eac4cf98121606794f4da590d",
+  "welfake_used": false,
+  "training_or_evaluation_rerun": false
+}

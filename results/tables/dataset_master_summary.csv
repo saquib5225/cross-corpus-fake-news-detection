@@ -1,0 +1,4 @@
+Dataset,Role,Raw records,Usable unique non-empty content,Class distribution,Independence finding
+ISOT,training/validation/test corpus,44898,39101,23481 fake; 21417 real raw,Internal splits: zero exact-content intersections
+WELFake,rejected external-evaluation candidate,72134,63673,37106 fake; 35028 real,All 39101 ISOT unique cleaned articles detected (100%); not independent
+FakeNewsAMT,external evaluation only,480,430,190 fake; 240 legitimate/real,0 exact/normalised body and title overlaps detected with ISOT

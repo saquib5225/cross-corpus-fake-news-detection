@@ -1,0 +1,5 @@
+dataset,correct,records,char_length_mean,char_length_median
+FakeNewsAMT_external,False,194,772.4845360824743,741.0
+FakeNewsAMT_external,True,236,712.7245762711865,676.0
+ISOT_test,False,1,3151.0,3151.0
+ISOT_test,True,3910,2498.7135549872123,2281.0

@@ -1,0 +1,7 @@
+Comparison,Field,Overlap_records,Reference_records,Overlap_percent
+ISOT-WELFake,normalised_nonempty_content,39101,39101,100.0
+ISOT-WELFake,normalised_title,38725,38725,
+ISOT-WELFake,unambiguous_content_label_agreement,39101,39101,100.0
+ISOT_train-WELFake,normalised_nonempty_content,31280,31280,100.0
+ISOT_validation-WELFake,normalised_nonempty_content,3910,3910,100.0
+ISOT_test-WELFake,normalised_nonempty_content,3911,3911,100.0

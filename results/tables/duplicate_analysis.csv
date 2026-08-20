@@ -1,0 +1,12 @@
+Dataset,Measure,Count
+ISOT,records,44898
+ISOT,nonempty_unique_content,39101
+ISOT,exact_content_duplicate_rows,5797
+ISOT,exact_title_duplicate_rows,6173
+WELFake,records,72134
+WELFake,nonempty_unique_content,63673
+WELFake,exact_content_duplicate_rows,8461
+WELFake,exact_title_duplicate_rows,9892
+ISOT_splits,exact_content_overlap_train_validation,0
+ISOT_splits,exact_content_overlap_train_test,0
+ISOT_splits,exact_content_overlap_validation_test,0

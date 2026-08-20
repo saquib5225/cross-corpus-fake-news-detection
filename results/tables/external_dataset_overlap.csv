@@ -1,0 +1,11 @@
+Dataset,Check,Overlap_unique_records,Candidate_unique_records,ISOT_unique_records,Candidate_overlap_percent,Status
+FakeNewsAMT,exact_body_text,0,430,38638,0.0,PASS
+FakeNewsAMT,normalised_body_text,0,430,38637,0.0,PASS
+FakeNewsAMT,exact_title,0,426,38728,0.0,PASS
+FakeNewsAMT,normalised_title,0,425,38720,0.0,PASS
+MisInfoText Snopes312 strict subset,exact_body_text,0,116,38638,0.0,PASS
+MisInfoText Snopes312 strict subset,normalised_body_text,0,116,38637,0.0,PASS
+MisInfoText Snopes312 strict subset,exact_title,0,116,38728,0.0,PASS
+MisInfoText Snopes312 strict subset,normalised_title,0,116,38720,0.0,PASS
+MisInfoText BuzzFeed v02,exact_body_text,0,1147,38638,0.0,PASS
+MisInfoText BuzzFeed v02,normalised_body_text,0,1147,38637,0.0,PASS

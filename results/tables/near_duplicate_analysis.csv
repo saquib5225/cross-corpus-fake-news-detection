@@ -1,0 +1,3 @@
+Comparison,Method,Candidate_overlap,Scope,Note
+ISOT-WELFake,punctuation-insensitive title signature,38720,all records; includes exact-content overlaps,Candidate matching only; title similarity is not semantic equivalence.
+ISOT-WELFake,punctuation-insensitive title signature,0,after removal of exact-content overlaps,Candidate matching only; title similarity is not semantic equivalence.

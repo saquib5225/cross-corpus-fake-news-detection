@@ -1,0 +1,39 @@
+{
+  "analysis_script": "scripts/run_explainability_analysis.py",
+  "seed": 42,
+  "source_checkpoint": "results\\roberta\\selected_checkpoint",
+  "checkpoint_sha256": "6549528157c51bb2132b8c9fd730ee3f94f15f7eac4cf98121606794f4da590d",
+  "prediction_files": {
+    "Naive Bayes": [
+      "results\\predictions\\naive_bayes_isot.csv",
+      "results\\predictions\\stage2a_naive_bayes_fakenewsamt.csv"
+    ],
+    "Logistic Regression": [
+      "results\\predictions\\logistic_regression_isot.csv",
+      "results\\predictions\\stage2a_logistic_regression_fakenewsamt.csv"
+    ],
+    "Random Forest": [
+      "results\\predictions\\random_forest_isot.csv",
+      "results\\predictions\\stage2a_random_forest_fakenewsamt.csv"
+    ],
+    "RoBERTa": [
+      "results\\roberta\\predictions_isot_test.csv",
+      "results\\roberta\\predictions_fakenewsamt.csv"
+    ]
+  },
+  "external_sha256": "c798cb2996925f057c8170086cc873914abe0c057f559204d1ef95e8a2e3e72f",
+  "method": "manual integrated gradients over input embeddings",
+  "ig_steps": null,
+  "max_length": 64,
+  "selected_external_ids": [],
+  "versions": {
+    "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+    "torch": "2.7.1+cu118",
+    "transformers": "5.15.0",
+    "sklearn": "1.9.0"
+  },
+  "timestamp_utc": "2026-08-20T17:43:44.475995+00:00",
+  "training_or_prediction_rerun": false,
+  "welfake_used": false,
+  "attribution_status": "not_completed_due_to_managed_cpu_execution_limit"
+}

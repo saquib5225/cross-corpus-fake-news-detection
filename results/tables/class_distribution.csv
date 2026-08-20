@@ -1,0 +1,4 @@
+split,records,fake,real
+train,31280,14324,16956
+validation,3910,1790,2120
+test,3911,1791,2120

@@ -1,0 +1,9 @@
+Dataset,Released_records,Usable_records,Article_text,Binary_labels,Provenance,ISOT_overlap_status,Independence_status,Suitability,Access_or_license
+FakeNewsAMT (polsci/fake-news),480,430,"Title plus excerpt/body",Yes,"Perez-Rosas et al. 2018; public Hugging Face mirror",0 across exact and normalised title/body checks,PASS,"Recommended with crowdsourced-excerpt limitation","Public; GPL per dataset card"
+MisInfoText Snopes312 strict subset,312,116,"Recovered original article text and title",Yes,"Torabi Asr and Taboada; Snopes-checked release",0 across exact and normalised title/body checks,PASS,"Independent but too small for primary external test","Public repository; GPL-3.0 repository; source-text copyright considerations"
+MisInfoText BuzzFeed v02,1380,1154,"Article text; no separate title",Provisional only,"MisInfoText pivoted from BuzzFeed fact-check data",0 exact and normalised body checks,PASS for body checks,"Not selected: 1090 mostly-true versus 64 mostly-false","Public repository"
+MisInfoText BuzzFeedTop,Accessible release,0,"Recovered text",No,"MisInfoText release",Not tested,NOT ESTABLISHED,"Reject: no explicit record-level binary labels","Public repository"
+LIAR binary mirror,12836,0,"Short claims/statements",Yes,"Wang 2017 / PolitiFact",Not tested,NOT ESTABLISHED,"Reject: not article-body data","Public mirror"
+FakeNewsNet,Thousands listed,0,"Public metadata only; complete content not redistributed",Yes,"Shu et al.; PolitiFact and GossipCop",Not tested,NOT ESTABLISHED,"Reject at this stage: non-fixed full-text access","Public metadata; publisher/Twitter restrictions"
+NELA-GT-2019,1120000,0,"Full article text",Proxy only,"Gruppi Horne and Adalı 2020",Not tested,NOT ESTABLISHED,"Reject: source-level rather than article-level labels","Harvard Dataverse"
+FakeNewsCorpus,9408908,0,"Extracted article content",Source-level only,"Several27 / OpenSources-derived",Not tested,NOT ESTABLISHED,"Reject: source-label confounding","Public release"

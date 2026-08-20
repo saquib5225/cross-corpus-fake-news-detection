@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "tfidf_fitted_on": "ISOT_train_only",
+  "external_used_for_training_or_tuning": false,
+  "isot_train_records": 31280,
+  "isot_validation_records": 3910,
+  "isot_test_records": 3911,
+  "fakenewsamt_released_records": 480,
+  "fakenewsamt_evaluated_records": 430,
+  "external_sha256": "c798cb2996925f057c8170086cc873914abe0c057f559204d1ef95e8a2e3e72f",
+  "vectorizer_sha256": "b9d28f3985dda415459a208b75f4d465ca1b7f167eee9924b5245d347e53b7f3",
+  "independence_checks": {
+    "exact_body_overlap": 0,
+    "normalised_body_overlap": 0,
+    "exact_title_overlap": 0,
+    "normalised_title_overlap": 0
+  },
+  "models": {
+    "Naive Bayes": "5811e0dac3053d5adeb0ce2cfd15491f0a7a087d4d1006091d1e847bde9c3877",
+    "Logistic Regression": "c672f5ac59dc5649d71f8d0610b64ae42acf151992b43eadd5c244f00f849bb1",
+    "Random Forest": "fbed2dc545c695d20b5a331f79ed00f13e55a4db3b67b0e89433d86cfa4f1fd8"
+  }
+}

@@ -1,0 +1,7 @@
+Evaluation,Reference_model,Comparator_model,N,RoBERTa_only_correct,Comparator_only_correct,Discordant_pairs,Exact_McNemar_p,Paired_accuracy_difference_RoBERTa_minus_comparator,Odds_ratio_RoBERTa_only_vs_comparator_only,Null_hypothesis,Holm_adjusted_p_across_6_tests,Statistically_significant_at_0.05_after_Holm
+ISOT_test,RoBERTa,Naive Bayes,3911,161,1,162,5.576456291136357e-47,0.04091025313219132,161.0,Equal probability of correctness on discordant paired observations,3.3458737746818142e-46,True
+ISOT_test,RoBERTa,Logistic Regression,3911,48,1,49,1.7763568394002505e-13,0.012017386857581247,48.0,Equal probability of correctness on discordant paired observations,8.881784197001252e-13,True
+ISOT_test,RoBERTa,Random Forest,3911,16,1,17,0.000274658203125,0.0038353362311429606,16.0,Equal probability of correctness on discordant paired observations,0.0010986328125,True
+FakeNewsAMT_external,RoBERTa,Naive Bayes,430,62,72,134,0.43699054908597257,-0.023255813953488302,0.8611111111111112,Equal probability of correctness on discordant paired observations,1.0,False
+FakeNewsAMT_external,RoBERTa,Logistic Regression,430,64,69,133,0.7288539386735833,-0.011627906976744207,0.927536231884058,Equal probability of correctness on discordant paired observations,1.0,False
+FakeNewsAMT_external,RoBERTa,Random Forest,430,65,69,134,0.7956287149703885,-0.009302325581395321,0.9420289855072463,Equal probability of correctness on discordant paired observations,1.0,False

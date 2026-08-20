@@ -1,0 +1,8 @@
+{
+  "forward_pass": true,
+  "backward_pass": true,
+  "batch_size": 2,
+  "max_length": 64,
+  "allocated_mb": 971.46,
+  "reserved_mb": 1098.0
+}

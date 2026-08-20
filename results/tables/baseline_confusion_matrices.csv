@@ -1,0 +1,25 @@
+Model,Evaluation,Actual_class,Predicted_class,Count
+Naive Bayes,ISOT_test,fake,fake,1707
+Naive Bayes,ISOT_test,fake,real,84
+Naive Bayes,ISOT_test,real,fake,77
+Naive Bayes,ISOT_test,real,real,2043
+Naive Bayes,FakeNewsAMT_external,fake,fake,134
+Naive Bayes,FakeNewsAMT_external,fake,real,56
+Naive Bayes,FakeNewsAMT_external,real,fake,128
+Naive Bayes,FakeNewsAMT_external,real,real,112
+Logistic Regression,ISOT_test,fake,fake,1759
+Logistic Regression,ISOT_test,fake,real,32
+Logistic Regression,ISOT_test,real,fake,16
+Logistic Regression,ISOT_test,real,real,2104
+Logistic Regression,FakeNewsAMT_external,fake,fake,152
+Logistic Regression,FakeNewsAMT_external,fake,real,38
+Logistic Regression,FakeNewsAMT_external,real,fake,151
+Logistic Regression,FakeNewsAMT_external,real,real,89
+Random Forest,ISOT_test,fake,fake,1782
+Random Forest,ISOT_test,fake,real,9
+Random Forest,ISOT_test,real,fake,7
+Random Forest,ISOT_test,real,real,2113
+Random Forest,FakeNewsAMT_external,fake,fake,162
+Random Forest,FakeNewsAMT_external,fake,real,28
+Random Forest,FakeNewsAMT_external,real,fake,162
+Random Forest,FakeNewsAMT_external,real,real,78

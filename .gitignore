@@ -1,0 +1,40 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and local environment files
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+
+# Secrets, credentials and local Streamlit state
+.streamlit/secrets.toml
+.streamlit/cache/
+*.pem
+*.key
+*.token
+*.credentials
+
+# Temporary files and runtime logs
+*.tmp
+*.temp
+*.bak
+*.swp
+*.log
+.stage*/
+
+# Datasets are not required by the Streamlit application
+data/
+News_Dataset/
+
+# Local training and frozen RoBERTa weights are remotely hosted for deployment
+results/roberta/checkpoints/
+results/roberta/selected_checkpoint/
+models/roberta-base/

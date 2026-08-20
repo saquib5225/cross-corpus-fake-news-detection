@@ -1,0 +1,46 @@
+{
+  "model_name": "roberta-base",
+  "tokenizer": "roberta-base",
+  "seed": 42,
+  "input_representation": "existing ISOT title + text content; FakeNewsAMT parsed title + body and whitespace-collapsed",
+  "max_length": 64,
+  "per_device_batch_size": 2,
+  "gradient_accumulation_steps": 8,
+  "effective_batch_size": 16,
+  "learning_rate": 2e-05,
+  "epochs_requested": 3,
+  "epochs_completed": 2,
+  "optimizer": "AdamW",
+  "weight_decay": 0.01,
+  "scheduler": "linear",
+  "warmup_ratio": 0.1,
+  "warmup_steps": 586,
+  "mixed_precision": "fp16 torch.autocast + GradScaler",
+  "gradient_checkpointing": false,
+  "selection_criterion": "highest ISOT validation Macro-F1",
+  "early_stopping_patience": 1,
+  "decision_threshold": 0.5,
+  "external_opened_after_selection": true,
+  "device": "NVIDIA GeForce GTX 1650 Ti",
+  "sanity_test": {
+    "forward_pass": true,
+    "backward_pass": true,
+    "batch_size": 2,
+    "max_length": 64,
+    "allocated_mb": 971.46,
+    "reserved_mb": 1098.0
+  },
+  "isot_split_hashes": {
+    "train": "26218ddfd14dd997f07bfa89705bdeba659bb6434b5ddee23571eb3d9afb3ce3",
+    "validation": "1f909e4f45764b52201739c603a0f803415ec5bdcb6fcf5569ea4c95fd1178e6",
+    "test": "40f87dae0bd5478903b6b54c824e2596c553eae6bb13b7dd77d19e873a539656"
+  },
+  "fakenewsamt_independence": {
+    "exact_body_overlap": 0,
+    "normalised_body_overlap": 0,
+    "exact_title_overlap": 0,
+    "normalised_title_overlap": 0,
+    "source_sha256": "c798cb2996925f057c8170086cc873914abe0c057f559204d1ef95e8a2e3e72f"
+  },
+  "timestamp_utc": "2026-08-20T16:39:04.405925+00:00"
+}

@@ -1,0 +1,12 @@
+Analysis,Metric,ISOT,WELFake_nonoverlap,Value
+Analysis design,sample_records,10000.0,10000.0,
+Analysis design,source_pool_unique_nonempty_records,39101.0,24572.0,
+Analysis design,WELFake_exact_ISOT_overlap_excluded,,39101.0,
+Class balance,class_1_proportion,0.5,0.5,0.0
+Article length,mean_words,425.6142,779.3486,353.73440000000005
+Article length,median_words,391.0,573.5,182.5
+Article length,Kolmogorov-Smirnov_statistic,,,0.2998
+Article length,Kolmogorov-Smirnov_p_value,,,1e-323
+Title length,mean_words,12.8052,11.7174,-1.0877999999999997
+Vocabulary,sampled_unigram_jaccard,,,0.6900456312320432
+TF-IDF,mean_vector_cosine_similarity,,,0.8764378920420519

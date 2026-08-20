@@ -1,0 +1,5 @@
+{
+  "seed": 42,
+  "tfidf_fitted_on": "ISOT_train_only",
+  "external_used_for_training_or_tuning": false
+}

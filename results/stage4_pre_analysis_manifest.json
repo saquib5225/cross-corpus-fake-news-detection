@@ -1,0 +1,1127 @@
+﻿[
+    {
+        "Path":  "Dissertation_Chapters_1-3_Revised.pdf",
+        "SHA256":  "9B10BE05A2C009D358DAA02DA7FAD3D819CF8F5D1F0B53208EF2E83AF38B19ED",
+        "Length":  223418
+    },
+    {
+        "Path":  "PROJECT_AUDIT.md",
+        "SHA256":  "8749C0A5782AFA0808A8D1FFD7612A75757488CE5E405498335AF1DD761E8A94",
+        "Length":  3462
+    },
+    {
+        "Path":  "README.md",
+        "SHA256":  "6F0997BEE30B0BD23D09BC256DF4FBE603009D3974233EE73EFBD990C10F2BAC",
+        "Length":  879
+    },
+    {
+        "Path":  "requirements.txt",
+        "SHA256":  "2A444BD49CCC3B08C22DFF7AA2E1E38C3062D9BD18DE6AB00EAC1A04BB997DFA",
+        "Length":  207
+    },
+    {
+        "Path":  "configs\\config.yaml",
+        "SHA256":  "3A89255C12BFD606E66531D2AC19E1AE57CCDCBD76DF0D165CBD2BDB813BE88A",
+        "Length":  733
+    },
+    {
+        "Path":  "data\\external_candidates\\FakeNewsAMT\\hf_data_tree.json",
+        "SHA256":  "68F83D90735B25FEEB9A9C3AED4D821CBDA99F889DBC4AA893ED5F1EFB27412A",
+        "Length":  313
+    },
+    {
+        "Path":  "data\\external_candidates\\FakeNewsAMT\\hf_tree.json",
+        "SHA256":  "9306755953ED0E602C6EFC03146DB572B38DD2BAE52A56C570FA661B4D75C834",
+        "Length":  291
+    },
+    {
+        "Path":  "data\\external_candidates\\FakeNewsAMT\\train-00000-of-00001.parquet",
+        "SHA256":  "C798CB2996925F057C8170086CC873914ABE0C057F559204D1EF95E8A2E3E72F",
+        "Length":  235598
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed-top.csv.zip",
+        "SHA256":  "F3A265385C5039CF32AFD9DCF6896802898D681512BCA4D8A0AE44F332CDE8A2",
+        "Length":  35272
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed-v02-originalLabels.txt.zip",
+        "SHA256":  "86B432F5D80CA67ED124263440CC74E811054F7534DBDD41B39EA8BD831CE13A",
+        "Length":  1749521
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed-v02-originalLabels.txt.zip.stderr.log",
+        "SHA256":  "9BDB21D20A54E256204CE92BFFA376BF739CEDEA5452AC6E373BB0A488B43946",
+        "Length":  1812
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed-v02.txt.zip",
+        "SHA256":  "1DB52B8179E3DF1C8B47D5824853FE206625542BA4F7B2D2A1A48522F39B4E73",
+        "Length":  1746730
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed-v02.txt.zip.stderr.log",
+        "SHA256":  "545C4ADF9647D114E70E485A5B2BF76644BCE43C78E03439695587EAC962079B",
+        "Length":  1812
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed_download_stderr.log",
+        "SHA256":  "ECD69F023738871876F7755EC3FC73438A04D7EE478109E1AAB738418D8565B1",
+        "Length":  472
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed_download_stdout.log",
+        "SHA256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "Length":  0
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\download_stderr.log",
+        "SHA256":  "1412552EF62F425129371B4FA4F62AAC92BCAE4991A3C7D70CB80E73EEC63C6A",
+        "Length":  472
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\download_stdout.log",
+        "SHA256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "Length":  0
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\Misinformation_detection_master.zip",
+        "SHA256":  "87B30986BBCD0DEB687192B8621852809F86D02533106C2A033E4847AA4A525E",
+        "Length":  2142208
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\snopes_checked_v02.csv.zip",
+        "SHA256":  "A1C5E923F0BB8F799F1AB84D3E384935500751090E280E391F1E27807D8B6085",
+        "Length":  515806
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed-top\\buzzfeed-top.csv",
+        "SHA256":  "86C2330587D9861EA7959570EC27D873733F4B00BE9F0CCDBA5EA56E2625ADA5",
+        "Length":  89081
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed-top\\__MACOSX\\._buzzfeed-top.csv",
+        "SHA256":  "712BA742B0F7864F0DF70373F9CBBEA74BF02C3D8BAD054C31937D613D279002",
+        "Length":  278
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed-v02-originalLabels.txt\\buzzfeed-v02-originalLabels.txt",
+        "SHA256":  "067D5549FBD30F735ED197915712D89B7E99FBA4690D9192B9F008C0E26B8E44",
+        "Length":  4844275
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed-v02-originalLabels.txt\\__MACOSX\\._buzzfeed-v02-originalLabels.txt",
+        "SHA256":  "FCE87289862053FD0B313C8829EF4BC0EE82290711FC7F70A4FA2913F8EEB2D6",
+        "Length":  278
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed-v02.txt\\buzzfeed-v02.txt",
+        "SHA256":  "8F83F46C8C1B15DDBB3F4A33E31247A91BFC990841703AA0DB81C639EC8C5DA6",
+        "Length":  4833619
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\buzzfeed-v02.txt\\__MACOSX\\._buzzfeed-v02.txt",
+        "SHA256":  "CA3E9A4AB66BA518852F2799387E453D5BAC473BF5AB1EB662439479E3D57A20",
+        "Length":  278
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\snopes_checked\\snopes_checked_v02.csv",
+        "SHA256":  "78449436C5063E32C7CFA86B84F1862BB2B40AC76E68BA200E0AC7968D709BF6",
+        "Length":  1370719
+    },
+    {
+        "Path":  "data\\external_candidates\\Misinformation_detection\\snopes_checked\\__MACOSX\\._snopes_checked_v02.csv",
+        "SHA256":  "59E044B31F66823588DCA51FE31AECF064680CDB5541C1F2E6A604047ACB35EF",
+        "Length":  278
+    },
+    {
+        "Path":  "data\\processed\\isot_test.csv",
+        "SHA256":  "40F87DAE0BD5478903B6B54C824E2596C553EAE6BB13B7DD77D19E873A539656",
+        "Length":  19814362
+    },
+    {
+        "Path":  "data\\processed\\isot_train.csv",
+        "SHA256":  "26218DDFD14DD997F07BFA89705BDEBA659BB6434B5DDEE23571EB3D9AFB3CE3",
+        "Length":  158165197
+    },
+    {
+        "Path":  "data\\processed\\isot_validation.csv",
+        "SHA256":  "1F909E4F45764B52201739C603A0F803415EC5BDCB6FCF5569EA4C95FD1178E6",
+        "Length":  19850415
+    },
+    {
+        "Path":  "data\\raw\\WELFake\\WELFake_Dataset.csv",
+        "SHA256":  "665331424230FC452E9482C3547A6A199A2C29745ADE8D236950D1D105223773",
+        "Length":  245086152
+    },
+    {
+        "Path":  "models\\roberta-base\\config.json",
+        "SHA256":  "EF0185E2AAE6E06C5F105A285006952C340E20C7DBF43C86EC82601B13FC45E9",
+        "Length":  481
+    },
+    {
+        "Path":  "models\\roberta-base\\merges.txt",
+        "SHA256":  "1CE1664773C50F3E0CC8842619A93EDC4624525B728B188A9E0BE33B7726ADC5",
+        "Length":  456318
+    },
+    {
+        "Path":  "models\\roberta-base\\model.safetensors",
+        "SHA256":  "5BDE1D28AFB363D0103324EFEB5AFC8B2B397FE5E04BEABB9B1EF355255ADE81",
+        "Length":  498818054
+    },
+    {
+        "Path":  "models\\roberta-base\\tokenizer.json",
+        "SHA256":  "847BBEAB6174D66A88898F729D52FA8D355FAFE1BEA101CF960DD404581DF70E",
+        "Length":  1355863
+    },
+    {
+        "Path":  "models\\roberta-base\\tokenizer_config.json",
+        "SHA256":  "994F46754C5BF4014F1AA92D34B1374319C3A6B3F702105CD5B742BEAECD18CE",
+        "Length":  25
+    },
+    {
+        "Path":  "models\\roberta-base\\vocab.json",
+        "SHA256":  "9E7F63C2D15D666B52E21D250D2E513B87C9B713CFA6987A82ED89E5E6E50655",
+        "Length":  898823
+    },
+    {
+        "Path":  "models\\traditional\\logistic_regression.joblib",
+        "SHA256":  "C672F5AC59DC5649D71F8D0610B64AE42ACF151992B43EADD5C244F00F849BB1",
+        "Length":  400847
+    },
+    {
+        "Path":  "models\\traditional\\naive_bayes.joblib",
+        "SHA256":  "5811E0DAC3053D5ADEB0CE2CFD15491F0A7A087D4D1006091D1E847BDE9C3877",
+        "Length":  1600791
+    },
+    {
+        "Path":  "models\\traditional\\random_forest.joblib",
+        "SHA256":  "FBED2DC545C695D20B5A331F79ED00F13E55A4DB3B67B0E89433D86CFA4F1FD8",
+        "Length":  64367033
+    },
+    {
+        "Path":  "models\\traditional\\tfidf_vectorizer.joblib",
+        "SHA256":  "B9D28F3985DDA415459A208B75F4D465CA1B7F167EEE9924B5245D347E53B7F3",
+        "Length":  1982301
+    },
+    {
+        "Path":  "News_Dataset\\Fake.csv",
+        "SHA256":  "BEBF8BCFE95678BF2C732BF413A2CE5F621AF0102C82BF08083B2E5D3C693D0C",
+        "Length":  62789876
+    },
+    {
+        "Path":  "News_Dataset\\True.csv",
+        "SHA256":  "BA0844414A65DC6AE7402B8EEE5306DA24B6B56488D6767135AF466C7DCB2775",
+        "Length":  53582940
+    },
+    {
+        "Path":  "results\\baseline_external_evaluation_report.md",
+        "SHA256":  "82E3EFD5D65359DF44272AED382825D7C7BB79F07424F7E92A1594345FEEB059",
+        "Length":  4747
+    },
+    {
+        "Path":  "results\\baseline_metadata.json",
+        "SHA256":  "33730911CA528CF9BB55A0C3FFB034207089B2B6484AB74AA34DB4A83D669278",
+        "Length":  109
+    },
+    {
+        "Path":  "results\\dataset_shift_report.md",
+        "SHA256":  "E49BF2EC5020E368BC62E00E3FF1C93C11BFE21AECA3E2FCD13F7E739C63C609",
+        "Length":  1545
+    },
+    {
+        "Path":  "results\\data_leakage_audit.md",
+        "SHA256":  "02A207FB010361DFE8FAFA49463E9B7DAC6967A82482A8B23C3E78E0A911BC85",
+        "Length":  1440
+    },
+    {
+        "Path":  "results\\data_validation_report.md",
+        "SHA256":  "1DDAAA094D4D34890BC3F8B45B43AC68FE05D1960C8DE2611D0773E5F1B5FF43",
+        "Length":  510
+    },
+    {
+        "Path":  "results\\duplicate_overlap_report.md",
+        "SHA256":  "FAB9B460C3411BD374B4931575B229B78DB85E2DF072FE32B84C418389C1E302",
+        "Length":  845
+    },
+    {
+        "Path":  "results\\ENVIRONMENT_READINESS.md",
+        "SHA256":  "9839C1EF0174AED963E9F0E0D684425CBB2EF6937850A906F5093E4E493D6258",
+        "Length":  3268
+    },
+    {
+        "Path":  "results\\external_dataset_candidates.md",
+        "SHA256":  "810ACB000846F8321A17FF4A43F35692BC25B91264B076D245E0870DD3983F8A",
+        "Length":  6048
+    },
+    {
+        "Path":  "results\\external_dataset_selection_report.md",
+        "SHA256":  "FF71ED3B459BA62E78E33FA56254C76D8C8E6CDA421C75DECA1D7041618DD1A2",
+        "Length":  4229
+    },
+    {
+        "Path":  "results\\final_comparison_metadata.json",
+        "SHA256":  "46C657FC5514AD0061CCEEE4781B03EEE7272B6ECADB1B6414D29E3E7C3F6515",
+        "Length":  2117
+    },
+    {
+        "Path":  "results\\final_model_comparison_report.md",
+        "SHA256":  "B05FEBDF9596E7A4293A365F6A9A40681FDA4DD9BB314827BA975E220D0982ED",
+        "Length":  1696
+    },
+    {
+        "Path":  "results\\NEXT_STEPS.md",
+        "SHA256":  "1D15C68E3CD1B85BA151F3A7EFF3FDBF210D163C5B2FD0955B22413E702B07E0",
+        "Length":  1445
+    },
+    {
+        "Path":  "results\\PROJECT_COMPLETION_AUDIT.md",
+        "SHA256":  "512F190266B34FCE3DEE2593EE43C8F8ABE6EECA5FD0EC6184A83820AD99424A",
+        "Length":  6609
+    },
+    {
+        "Path":  "results\\roberta_evaluation_report.md",
+        "SHA256":  "6057795C22DB4236459D24A3548A6DD5BBC57558707A13E4300BFEFA57A2AA9B",
+        "Length":  3873
+    },
+    {
+        "Path":  "results\\stage3_analysis_stderr.log",
+        "SHA256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "Length":  0
+    },
+    {
+        "Path":  "results\\stage3_analysis_stdout.log",
+        "SHA256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "Length":  0
+    },
+    {
+        "Path":  "results\\STAGE3_FINAL_INTEGRITY_AUDIT.md",
+        "SHA256":  "5EC938EBFAE86AB8A7961AF3266CF441CBAC75F62CB83F5DAF5AA738198055E8",
+        "Length":  733
+    },
+    {
+        "Path":  "results\\statistical_analysis_report.md",
+        "SHA256":  "71B59E6796A298AACD168B76C5C89543B41ECDF959CAD218B9B5AA9E6DC24F5C",
+        "Length":  2540
+    },
+    {
+        "Path":  "results\\confusion_matrices\\logistic_regression_isot.csv",
+        "SHA256":  "428CA1C98634E9C2333D9522F4FDEACB7946A857190B77CD168054DA1F41B719",
+        "Length":  64
+    },
+    {
+        "Path":  "results\\confusion_matrices\\naive_bayes_isot.csv",
+        "SHA256":  "0FBDEE1C92AE6CA15854C1637C5BDDB3128FFDB0BAA12DA819D0D3D007F66490",
+        "Length":  64
+    },
+    {
+        "Path":  "results\\confusion_matrices\\random_forest_isot.csv",
+        "SHA256":  "7CE5344263E7D5587B0A0E6986F55DD3B45C629210F3D35ED9CC0412B5AB13D2",
+        "Length":  62
+    },
+    {
+        "Path":  "results\\figures\\dataset_article_length_comparison.png",
+        "SHA256":  "C7931E08E0D1299D125BB522A0413EF5F397D27D8C78C720D2DFFB1DFD33884B",
+        "Length":  63168
+    },
+    {
+        "Path":  "results\\figures\\dataset_class_distribution_comparison.png",
+        "SHA256":  "4605E94A609773C3EEDDD09A60A83B0BE810864A409D2DD34490FAD9B018F624",
+        "Length":  70928
+    },
+    {
+        "Path":  "results\\figures\\dataset_lexical_similarity.png",
+        "SHA256":  "4B1600F9818CC456779A15C6116BBA29B8F59D98EA0572788290F489BFA909D5",
+        "Length":  66037
+    },
+    {
+        "Path":  "results\\figures\\dataset_title_length_comparison.png",
+        "SHA256":  "A0CF2D79DE2E3FB827071D4651A4CFBAB1766356898472453907A6AFEA9EB881",
+        "Length":  71563
+    },
+    {
+        "Path":  "results\\figures\\external_evaluation\\confusion_matrices_isot_vs_fakenewsamt.png",
+        "SHA256":  "92F96272D70CDBF4DD3709909E0BEF308F28E348AB567151AEF9317208B33C5E",
+        "Length":  281658
+    },
+    {
+        "Path":  "results\\figures\\external_evaluation\\isot_vs_fakenewsamt_accuracy.png",
+        "SHA256":  "B4B4F74FF0FDC357CCB16CAEB3C4BCDF910E14D57E8D5FA94F8CE7AA932BB0DF",
+        "Length":  89196
+    },
+    {
+        "Path":  "results\\figures\\external_evaluation\\isot_vs_fakenewsamt_macro_f1.png",
+        "SHA256":  "5F35EF8546F7F3E3D3539FCCD7B4C64B633A29DC78532E3219159B8727FFA334",
+        "Length":  83367
+    },
+    {
+        "Path":  "results\\figures\\external_evaluation\\macro_f1_generalisation_gap.png",
+        "SHA256":  "603D5855D18AB56C44B7237AA3321E6E2BA59F5237D77AFA021CA31DC0B7B912",
+        "Length":  84708
+    },
+    {
+        "Path":  "results\\figures\\final_comparison\\fakenewsamt_confusion_logistic_regression.png",
+        "SHA256":  "F9D96FF1516585FF511CE9833E194C0FA3272D28B0FD630A076F474D79B8B0C4",
+        "Length":  50401
+    },
+    {
+        "Path":  "results\\figures\\final_comparison\\fakenewsamt_confusion_naive_bayes.png",
+        "SHA256":  "58E575C8730FEAE3F17146877334ACDAA05A7F7EB5FF126E2C37F555DE0A080C",
+        "Length":  50389
+    },
+    {
+        "Path":  "results\\figures\\final_comparison\\fakenewsamt_confusion_random_forest.png",
+        "SHA256":  "E3BF03D55792110F6C307EAC377F68ADA05206E0F999A3AB1522585762F66B8B",
+        "Length":  50790
+    },
+    {
+        "Path":  "results\\figures\\final_comparison\\fakenewsamt_confusion_roberta.png",
+        "SHA256":  "96FA13130A1AC7D71DFC1F0EBC91B72FFD776BCD07C3A745FE58F65677CAC7A7",
+        "Length":  45622
+    },
+    {
+        "Path":  "results\\figures\\final_comparison\\fakenewsamt_macro_f1_comparison.png",
+        "SHA256":  "CAFC4AFA5B35D8F6407E48ADB913A7DD3FFEA5BE50EF9398050F0A6C05F18203",
+        "Length":  52602
+    },
+    {
+        "Path":  "results\\figures\\final_comparison\\fakenewsamt_roc_curves.png",
+        "SHA256":  "684CFB94DA0F5215774B9F6675350AC7D86CBB50C2EA7937DDF5064E7D7CE847",
+        "Length":  139232
+    },
+    {
+        "Path":  "results\\figures\\final_comparison\\generalisation_gap_comparison.png",
+        "SHA256":  "E9F9D952E5C2B522519E4086E61A051295BB70E27FD6CEB3979409B35BB87D5D",
+        "Length":  54637
+    },
+    {
+        "Path":  "results\\figures\\final_comparison\\isot_macro_f1_comparison.png",
+        "SHA256":  "4E95CA01B4FB3D0C921C58F00306926141D78E5DB777C91D832A33B732C91A3A",
+        "Length":  51886
+    },
+    {
+        "Path":  "results\\figures\\final_comparison\\isot_roc_curves.png",
+        "SHA256":  "575FB7E4E9F851ED7A1BC62AE189FA7314187CAF2E83ACF70247C719DD90428B",
+        "Length":  98508
+    },
+    {
+        "Path":  "results\\figures\\final_comparison\\isot_vs_fakenewsamt_macro_f1.png",
+        "SHA256":  "1B635214F2A9E551DA6A9B31E104EA1F4D5631DA2E4FD2C9147A56CB6E3E8FB6",
+        "Length":  57486
+    },
+    {
+        "Path":  "results\\figures\\final_comparison\\precision_recall_comparison.png",
+        "SHA256":  "CA0E802C76A7F104DFA74CE7AD3F751F764438BDA2AB469BC34184F20600CAD6",
+        "Length":  72300
+    },
+    {
+        "Path":  "results\\figures\\roberta\\generalisation_gap_model_comparison.png",
+        "SHA256":  "527261FB5E41C7C9079800430E146DEF5D1293A2D166DE6D435618F6785C89F7",
+        "Length":  74868
+    },
+    {
+        "Path":  "results\\figures\\roberta\\model_comparison_external_macro_f1.png",
+        "SHA256":  "4C5643DA25D4A48E376518FF643CE73059FB1DD64286C005011085E4A8A4A95D",
+        "Length":  66836
+    },
+    {
+        "Path":  "results\\figures\\roberta\\roberta_confusion_matrix_fakenewsamt.png",
+        "SHA256":  "474DBB62A6E6E0B31BD61279DA914FACD8E02352FAED56758EAA8E1D0B7C6A18",
+        "Length":  54203
+    },
+    {
+        "Path":  "results\\figures\\roberta\\roberta_confusion_matrix_isot.png",
+        "SHA256":  "97543B279E2807366D61F4275210B8DF9EEE6F58A4FC550A2FB639F7731BF0C8",
+        "Length":  52414
+    },
+    {
+        "Path":  "results\\figures\\roberta\\roberta_isot_vs_fakenewsamt_macro_f1.png",
+        "SHA256":  "1C42F0DC4729A8D394BB3213C3FBFB87738F01A500F0E0C9D1A0B87250F61D22",
+        "Length":  55763
+    },
+    {
+        "Path":  "results\\logs\\stage1_shift_stderr.log",
+        "SHA256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "Length":  0
+    },
+    {
+        "Path":  "results\\logs\\stage1_shift_stdout.log",
+        "SHA256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "Length":  0
+    },
+    {
+        "Path":  "results\\predictions\\logistic_regression_isot.csv",
+        "SHA256":  "45A810756C50025643C0A64F9D5AE557C98DE5EBB4F67C6AB7AD0A1D89F1FA9A",
+        "Length":  96230
+    },
+    {
+        "Path":  "results\\predictions\\logistic_regression_welfake.csv",
+        "SHA256":  "7B117BC82175339B2AEEE1F35E53820790B9725E640145FDF8C7786DA95B84E9",
+        "Length":  1568731
+    },
+    {
+        "Path":  "results\\predictions\\naive_bayes_isot.csv",
+        "SHA256":  "9F726C2507CC8DBF03D13FA3996867D4BD0CABE4D3B60D733F61AF546B61C80F",
+        "Length":  98303
+    },
+    {
+        "Path":  "results\\predictions\\naive_bayes_welfake.csv",
+        "SHA256":  "0CE210217B9CC9F7A6F437DD1CF292EAB0F504813248483CD2C2BD90DD6E826D",
+        "Length":  1605568
+    },
+    {
+        "Path":  "results\\predictions\\random_forest_isot.csv",
+        "SHA256":  "54DB2357537241A244125A4C76D46A51C10A163267553519594E55723632FB33",
+        "Length":  40854
+    },
+    {
+        "Path":  "results\\predictions\\random_forest_welfake.csv",
+        "SHA256":  "A25F7576C85488E1F43E002A08957AE0F4F457FEBBDC39491AABD0D6C9E20809",
+        "Length":  665847
+    },
+    {
+        "Path":  "results\\predictions\\stage2a_logistic_regression_fakenewsamt.csv",
+        "SHA256":  "F24DE26930E5C1D8FB1FB68F1C683E69E7AFA6A79175E9FD9EC082A778F31794",
+        "Length":  12139
+    },
+    {
+        "Path":  "results\\predictions\\stage2a_logistic_regression_isot.csv",
+        "SHA256":  "45A810756C50025643C0A64F9D5AE557C98DE5EBB4F67C6AB7AD0A1D89F1FA9A",
+        "Length":  96230
+    },
+    {
+        "Path":  "results\\predictions\\stage2a_naive_bayes_fakenewsamt.csv",
+        "SHA256":  "88B364E77AD30BFB88986AB6A35F94C93AEF2B1BFC2890B8C1DDCE18A35D7185",
+        "Length":  12257
+    },
+    {
+        "Path":  "results\\predictions\\stage2a_naive_bayes_isot.csv",
+        "SHA256":  "9F726C2507CC8DBF03D13FA3996867D4BD0CABE4D3B60D733F61AF546B61C80F",
+        "Length":  98303
+    },
+    {
+        "Path":  "results\\predictions\\stage2a_random_forest_fakenewsamt.csv",
+        "SHA256":  "0584C085E1D7ED08E18633888988DCA5FE56E3EB86C4B71B593110900D362E06",
+        "Length":  6176
+    },
+    {
+        "Path":  "results\\predictions\\stage2a_random_forest_isot.csv",
+        "SHA256":  "54DB2357537241A244125A4C76D46A51C10A163267553519594E55723632FB33",
+        "Length":  40854
+    },
+    {
+        "Path":  "results\\roberta\\confusion_matrices.csv",
+        "SHA256":  "1A0071E13C1A40CCBC51C2C94D728875BED0E9DF2E5BB399DE059AA6EAD274B8",
+        "Length":  287
+    },
+    {
+        "Path":  "results\\roberta\\model_configuration.json",
+        "SHA256":  "3EDA9DB9567D5D9CF7B73E077D5702557EA06271F0FE0D99C5DF37A0EEA21121",
+        "Length":  1114
+    },
+    {
+        "Path":  "results\\roberta\\predictions_fakenewsamt.csv",
+        "SHA256":  "E80DAC155D5EF21DFB27A6878B4416C3FBF5414446A4630462EB5F5894B7A635",
+        "Length":  9126
+    },
+    {
+        "Path":  "results\\roberta\\predictions_isot_test.csv",
+        "SHA256":  "F861E8903F514DDCEAE92BEDDA018F491775466049AACE24645FADF429EBA3AF",
+        "Length":  66205
+    },
+    {
+        "Path":  "results\\roberta\\sanity_test.json",
+        "SHA256":  "ED1EF7C7D51A0D9F5CCD14FFC4E26E7517175D7FDF46D9B2413ED0D4D9AB4FBB",
+        "Length":  148
+    },
+    {
+        "Path":  "results\\roberta\\STAGE2B_CONFIGURATION_DECISION.md",
+        "SHA256":  "588DDB3C805012A3671BEE664D19E86FF4BFDE4003E62987B49524DF2F4E4525",
+        "Length":  4316
+    },
+    {
+        "Path":  "results\\roberta\\stage2b_error.log",
+        "SHA256":  "CCE52871E471B06447FB49AB6BF4B93DFF4D6581671ED37209FB7670EFB43A2C",
+        "Length":  2071
+    },
+    {
+        "Path":  "results\\roberta\\STAGE2B_FAILURE_DIAGNOSTIC.md",
+        "SHA256":  "3E8BE415A32B086FD59C488F0394DC7E4EC284B52BFC1D527705244D7B7BB026",
+        "Length":  7933
+    },
+    {
+        "Path":  "results\\roberta\\STAGE2B_FINAL_AUDIT.md",
+        "SHA256":  "12170D6A385AB2FFD2D0E5A3907F448B81D3DF829F1181B0955CC6725C2C045F",
+        "Length":  4122
+    },
+    {
+        "Path":  "results\\roberta\\stage2b_resume_stderr.log",
+        "SHA256":  "A092098222BFD29B6920B1DF7E109E7F3359C642A632F2EA45A4761D690B5CBE",
+        "Length":  4660
+    },
+    {
+        "Path":  "results\\roberta\\stage2b_resume_stdout.log",
+        "SHA256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "Length":  0
+    },
+    {
+        "Path":  "results\\roberta\\STAGE2B_RUNNER_HARDENING.md",
+        "SHA256":  "3F308B0803A8CB2CE5ED9BCE304CA17D7CE3CC74186FFEC0AC120A927137B3CA",
+        "Length":  5031
+    },
+    {
+        "Path":  "results\\roberta\\STAGE2B_RUNTIME_ASSESSMENT.md",
+        "SHA256":  "3E50973D143D7B44A7BA104E1884FD90D8D95A5E9B3C3A51F4E67C87B14F3C5C",
+        "Length":  5985
+    },
+    {
+        "Path":  "results\\roberta\\stage2b_run_config.json",
+        "SHA256":  "A5E8680ED662031FE016F9B81B5A7FD020FE4EBDC24E38A996C19793A2B6F9D9",
+        "Length":  982
+    },
+    {
+        "Path":  "results\\roberta\\stage2b_run_config_20260819_075422.json",
+        "SHA256":  "9FC700B9455CF3B0EDBCBE5BBFBE59FC473FFE78DD4248E661EA033CF660E746",
+        "Length":  982
+    },
+    {
+        "Path":  "results\\roberta\\stage2b_run_config_20260819_200558.json",
+        "SHA256":  "8DB4B4CEC8C1F9A0D14DE3BCBF7BCC7D91BF23F929AE06047B5C023F736C1ABB",
+        "Length":  982
+    },
+    {
+        "Path":  "results\\roberta\\stage2b_stderr.log",
+        "SHA256":  "9AA8D16C84EB202DD084CB9C383462A94ECF4425330B0579B4B225BEDC668507",
+        "Length":  6805
+    },
+    {
+        "Path":  "results\\roberta\\stage2b_stdout.log",
+        "SHA256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "Length":  0
+    },
+    {
+        "Path":  "results\\roberta\\stage2b_training.log",
+        "SHA256":  "20CB09B108523F2671E99AD07561FFD371DAFF13E6FA68345F3CCBEC76BBC041",
+        "Length":  1174078
+    },
+    {
+        "Path":  "results\\roberta\\tokenizer_configuration.json",
+        "SHA256":  "3661E33755CA8B489F5C3EF3018E5A8413F4DFF5660AEB37E65103719D5AAA61",
+        "Length":  1556024
+    },
+    {
+        "Path":  "results\\roberta\\training_configuration.json",
+        "SHA256":  "F1A6F8DD9B9BB490B30061E087000422CEC375107B6B618330EE14D854B2BD06",
+        "Length":  1614
+    },
+    {
+        "Path":  "results\\roberta\\training_log.csv",
+        "SHA256":  "0227A362F0CD940141F6843F976A412A4AFB45453A60161CB0350989ACD8BB06",
+        "Length":  700
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1000\\checkpoint_metadata.json",
+        "SHA256":  "BD9E6CCD000133E28BCEFC71FEDCF5A654C55428A48803CBE62A87D74A09CFCF",
+        "Length":  252
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1000\\config.json",
+        "SHA256":  "848E4294F79D0BED1EC56E91144AD23D4D1C098061BD6256026B62662FEFABDC",
+        "Length":  880
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1000\\model.safetensors",
+        "SHA256":  "09FE1A75C4513D8994A8E5B09A323048CE3AE59524EB4A2738E8C7714041CE6B",
+        "Length":  498612824
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1000\\model_state.pt",
+        "SHA256":  "6A7982C82C677CCF9178EC81EAFAB78B26598591367C66924D327CFEDF629C67",
+        "Length":  498672809
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1000\\tokenizer.json",
+        "SHA256":  "DA0AC1FDF55AC64D32F34A97E4294A753FCB91A1643B9694197153C42A4E305B",
+        "Length":  3558739
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1000\\tokenizer_config.json",
+        "SHA256":  "0CBF8382B450D6B257C5C3E847E6F58424F943C68ABE2A141C146C22057BE9C9",
+        "Length":  404
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1000\\trainer_state.pt",
+        "SHA256":  "8EBB321E74C558EE67A142F795F4B79B41A4158B052A3B621ACC28F22C0502F7",
+        "Length":  997362263
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1500\\checkpoint_metadata.json",
+        "SHA256":  "926E1CD4F2B5D295CB3C18F9ABD1BEC8FBB512D26C24F442FEC8971FD0869DEF",
+        "Length":  253
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1500\\config.json",
+        "SHA256":  "848E4294F79D0BED1EC56E91144AD23D4D1C098061BD6256026B62662FEFABDC",
+        "Length":  880
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1500\\model.safetensors",
+        "SHA256":  "C48C2AFEA1080241BCA77FCC989F4787DA0E94289FFCE924A6575DA64B61711E",
+        "Length":  498612824
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1500\\model_state.pt",
+        "SHA256":  "C8F0F0CBCC0E3F5F03827998DEA6467A19EA00912D21D1E0D7001EFDCCB4721E",
+        "Length":  498672809
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1500\\tokenizer.json",
+        "SHA256":  "DA0AC1FDF55AC64D32F34A97E4294A753FCB91A1643B9694197153C42A4E305B",
+        "Length":  3558739
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1500\\tokenizer_config.json",
+        "SHA256":  "0CBF8382B450D6B257C5C3E847E6F58424F943C68ABE2A141C146C22057BE9C9",
+        "Length":  404
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-1500\\trainer_state.pt",
+        "SHA256":  "808C20FF6C843FEBAADAA3C93A433A20AC1A1249B4F1D97293FA84979B20124C",
+        "Length":  997362263
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2000\\checkpoint_metadata.json",
+        "SHA256":  "3C840F0464063CA24B10E4BCDE39F9EFBEA4C767F2EE6B8164A2C0744FD07FE2",
+        "Length":  251
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2000\\config.json",
+        "SHA256":  "848E4294F79D0BED1EC56E91144AD23D4D1C098061BD6256026B62662FEFABDC",
+        "Length":  880
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2000\\model.safetensors",
+        "SHA256":  "F956B26BE9B393C04940D94550E7360234075F998A01C5109E0CAEBF033A3C22",
+        "Length":  498612824
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2000\\model_state.pt",
+        "SHA256":  "0E6D0C7A9F88EB0E64DA13383739D20BC1EA0E153F7ADC5C0B893B82E11426D7",
+        "Length":  498672809
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2000\\tokenizer.json",
+        "SHA256":  "DA0AC1FDF55AC64D32F34A97E4294A753FCB91A1643B9694197153C42A4E305B",
+        "Length":  3558739
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2000\\tokenizer_config.json",
+        "SHA256":  "0CBF8382B450D6B257C5C3E847E6F58424F943C68ABE2A141C146C22057BE9C9",
+        "Length":  404
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2000\\trainer_state.pt",
+        "SHA256":  "DFBEC174FD5CC0451451741C3FE1C93C3193E18243093F0F1AE4F1643E4B2CA4",
+        "Length":  997362263
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2500\\checkpoint_metadata.json",
+        "SHA256":  "B79FEE4F7994A7DF7268DF502278B73EE5EDD6D0A610F0C48C5ACA699B95E290",
+        "Length":  252
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2500\\config.json",
+        "SHA256":  "848E4294F79D0BED1EC56E91144AD23D4D1C098061BD6256026B62662FEFABDC",
+        "Length":  880
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2500\\model.safetensors",
+        "SHA256":  "189560B426526D88AC343B857E00DB57FA81CB7A41D6E82206FEEE0C3C464606",
+        "Length":  498612824
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2500\\model_state.pt",
+        "SHA256":  "836905D138D9659B2BDB24C9D2BD52736A3C771E3AE53F0FDF6FD376AAC705F8",
+        "Length":  498672809
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2500\\tokenizer.json",
+        "SHA256":  "DA0AC1FDF55AC64D32F34A97E4294A753FCB91A1643B9694197153C42A4E305B",
+        "Length":  3558739
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2500\\tokenizer_config.json",
+        "SHA256":  "0CBF8382B450D6B257C5C3E847E6F58424F943C68ABE2A141C146C22057BE9C9",
+        "Length":  404
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-2500\\trainer_state.pt",
+        "SHA256":  "E27F061879E2F3AAE63479D1FE5C78960275DEB9EBA058F66CBC76EE9EF7A06C",
+        "Length":  997362263
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3000\\checkpoint_metadata.json",
+        "SHA256":  "2C36649891AA931A57932DF1C029A43A8D098D3CB5A4C67E6A21429033CD5DC6",
+        "Length":  252
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3000\\config.json",
+        "SHA256":  "848E4294F79D0BED1EC56E91144AD23D4D1C098061BD6256026B62662FEFABDC",
+        "Length":  880
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3000\\model.safetensors",
+        "SHA256":  "6B217FC18BF61C6A375287D07248E144F7B9CA4667DBF91E83A08750D7B41FEB",
+        "Length":  498612824
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3000\\model_state.pt",
+        "SHA256":  "65955BFE8BCA8CCC8193828A7DE576F69CB7FAEE68CEEEC2D21CD8F490942533",
+        "Length":  498672809
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3000\\tokenizer.json",
+        "SHA256":  "DA0AC1FDF55AC64D32F34A97E4294A753FCB91A1643B9694197153C42A4E305B",
+        "Length":  3558739
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3000\\tokenizer_config.json",
+        "SHA256":  "0CBF8382B450D6B257C5C3E847E6F58424F943C68ABE2A141C146C22057BE9C9",
+        "Length":  404
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3000\\trainer_state.pt",
+        "SHA256":  "B40620940BA020672CF452CFD66011223DEC2C4ADAE973A49592ECEBE0F12401",
+        "Length":  997362263
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3500\\checkpoint_metadata.json",
+        "SHA256":  "6754A93BAAD4B6D926F55D4E30185B6B78F0BB2B1E2F3B5F917CAF19DCCA653D",
+        "Length":  253
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3500\\config.json",
+        "SHA256":  "848E4294F79D0BED1EC56E91144AD23D4D1C098061BD6256026B62662FEFABDC",
+        "Length":  880
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3500\\model.safetensors",
+        "SHA256":  "6EA733239C867DA8CE736C8A0B34F06AD6DE639483BF0D242C8DA159B15C15AB",
+        "Length":  498612824
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3500\\model_state.pt",
+        "SHA256":  "3879F02D0E8169C33EB29B12276104807E4D37397A31EBAB72D1AFF0468B0EA3",
+        "Length":  498672809
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3500\\tokenizer.json",
+        "SHA256":  "DA0AC1FDF55AC64D32F34A97E4294A753FCB91A1643B9694197153C42A4E305B",
+        "Length":  3558739
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3500\\tokenizer_config.json",
+        "SHA256":  "0CBF8382B450D6B257C5C3E847E6F58424F943C68ABE2A141C146C22057BE9C9",
+        "Length":  404
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-3500\\trainer_state.pt",
+        "SHA256":  "2C85BD889FB8BC6CA06BFACF6DD22226D4F9201734E3A1A4F0B3C4BD2A4FE9C0",
+        "Length":  997362263
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-500\\checkpoint_metadata.json",
+        "SHA256":  "E46D84BA15CF91DFD27523834BF4CEFDB6C3E46BB07795E6A21A35BCD994B0A0",
+        "Length":  251
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-500\\config.json",
+        "SHA256":  "848E4294F79D0BED1EC56E91144AD23D4D1C098061BD6256026B62662FEFABDC",
+        "Length":  880
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-500\\model.safetensors",
+        "SHA256":  "43D3BBF6716558EBE0E3554528EC107E4934650746603C19ABA000D32480E875",
+        "Length":  498612824
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-500\\model_state.pt",
+        "SHA256":  "5E25312D6A3D81271ACD29208508ECBB7F60479B96AD8DADC1DF1E5BCB28B649",
+        "Length":  498672809
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-500\\tokenizer.json",
+        "SHA256":  "DA0AC1FDF55AC64D32F34A97E4294A753FCB91A1643B9694197153C42A4E305B",
+        "Length":  3558739
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-500\\tokenizer_config.json",
+        "SHA256":  "0CBF8382B450D6B257C5C3E847E6F58424F943C68ABE2A141C146C22057BE9C9",
+        "Length":  404
+    },
+    {
+        "Path":  "results\\roberta\\checkpoints\\checkpoint-step-500\\trainer_state.pt",
+        "SHA256":  "65F1D5B3E3AABED304FC0743C634EA0C7C02179E1F1198043107E7863C3BD9B9",
+        "Length":  997362263
+    },
+    {
+        "Path":  "results\\roberta\\selected_checkpoint\\config.json",
+        "SHA256":  "848E4294F79D0BED1EC56E91144AD23D4D1C098061BD6256026B62662FEFABDC",
+        "Length":  880
+    },
+    {
+        "Path":  "results\\roberta\\selected_checkpoint\\model.safetensors",
+        "SHA256":  "6549528157C51BB2132B8C9FD730EE3F94F15F7EAC4CF98121606794F4DA590D",
+        "Length":  498612824
+    },
+    {
+        "Path":  "results\\roberta\\selected_checkpoint\\tokenizer.json",
+        "SHA256":  "DA0AC1FDF55AC64D32F34A97E4294A753FCB91A1643B9694197153C42A4E305B",
+        "Length":  3558739
+    },
+    {
+        "Path":  "results\\roberta\\selected_checkpoint\\tokenizer_config.json",
+        "SHA256":  "0CBF8382B450D6B257C5C3E847E6F58424F943C68ABE2A141C146C22057BE9C9",
+        "Length":  404
+    },
+    {
+        "Path":  "results\\tables\\all_baseline_results.csv",
+        "SHA256":  "76CAA42DE956001174AFDF9EE0644B9037C6712D67EB219DA4FE35E621AD6848",
+        "Length":  976
+    },
+    {
+        "Path":  "results\\tables\\baseline_confusion_matrices.csv",
+        "SHA256":  "76615E0C7DBA49BABBCF8AC249DFF5D527FDE5E9EFDF0EA41B1BCBC848D76C3C",
+        "Length":  1146
+    },
+    {
+        "Path":  "results\\tables\\baseline_external_evaluation.csv",
+        "SHA256":  "1CA02CB3D1EEDFFD755D3953D34ECC83632357974FED4C78949304C962F744C3",
+        "Length":  1899
+    },
+    {
+        "Path":  "results\\tables\\baseline_external_evaluation_metadata.json",
+        "SHA256":  "A23D58A173574CB302ECE310FB3A72B8DC9368A44789AF6E887F15E47866591C",
+        "Length":  929
+    },
+    {
+        "Path":  "results\\tables\\baseline_generalisation_gap.csv",
+        "SHA256":  "7B0071F5A72760ABC864422B16EBA72986684AE473E4C7C42AA870AF37784445",
+        "Length":  451
+    },
+    {
+        "Path":  "results\\tables\\class_distribution.csv",
+        "SHA256":  "2904EBB46331836BBAF236EF47F24A5697082165A0BB48796DB43F0706D624FE",
+        "Length":  98
+    },
+    {
+        "Path":  "results\\tables\\cross_dataset_results.csv",
+        "SHA256":  "6C90B043C1D6E989DC261FA1440D9408B999C3D6984B537F58DCF4613417E95C",
+        "Length":  499
+    },
+    {
+        "Path":  "results\\tables\\dataset_overlap.csv",
+        "SHA256":  "E0F5211ACCFA7758F29D2100D807CF45A43EFC3501F8D2734C921E847F17B4FC",
+        "Length":  438
+    },
+    {
+        "Path":  "results\\tables\\dataset_shift_statistics.csv",
+        "SHA256":  "6F8184D21BA76AD014F791CACC9D50A2BA0C623840301315CCCDF8EF3A7798D2",
+        "Length":  669
+    },
+    {
+        "Path":  "results\\tables\\dataset_statistics_comparison.csv",
+        "SHA256":  "7D784C7B9EABDC5B29CCD5B2B9DF9BCBBF9AB79DC5CAD3BDFBE7C5F28EF90525",
+        "Length":  461
+    },
+    {
+        "Path":  "results\\tables\\duplicate_analysis.csv",
+        "SHA256":  "26665E30BBD0E0CD1554154F8ED579F6A0E263196065E470B6A40C544904726C",
+        "Length":  458
+    },
+    {
+        "Path":  "results\\tables\\error_comparison.csv",
+        "SHA256":  "A43089DD334C50A0137A7C03F90D07BEA9B4C0A55AB9940F02A0EF1A331E1D16",
+        "Length":  1155
+    },
+    {
+        "Path":  "results\\tables\\external_dataset_comparison.csv",
+        "SHA256":  "A8907953ED09B39341241E96A4476124D95F68550004291417DB39B33822A1F9",
+        "Length":  1975
+    },
+    {
+        "Path":  "results\\tables\\external_dataset_overlap.csv",
+        "SHA256":  "4F0D5060A731C430EA41BBA8999F1FDA582D953EEC9499C97299339173211569",
+        "Length":  749
+    },
+    {
+        "Path":  "results\\tables\\fakenewsamt_dataset_statistics.csv",
+        "SHA256":  "BBB4EE45F22927CB2409E0C7E67D4B0DA86AFDF389931D9713365A304680EFC4",
+        "Length":  430
+    },
+    {
+        "Path":  "results\\tables\\final_generalisation_analysis.csv",
+        "SHA256":  "F850A18248104F4927991260E6C4B38E4269ACBE49C294794A3A1A3844ADD84F",
+        "Length":  564
+    },
+    {
+        "Path":  "results\\tables\\final_model_comparison.csv",
+        "SHA256":  "CDDB72A6906E7A07CAC414B6D55BAA5BE5DF5CFD83818B218CBC7CBBB704FC3C",
+        "Length":  1260
+    },
+    {
+        "Path":  "results\\tables\\generalisation_gap.csv",
+        "SHA256":  "45E466F5B8A93C5139896E83CC3B4823C83457E90A05D7317A01705BE2E4DC81",
+        "Length":  321
+    },
+    {
+        "Path":  "results\\tables\\in_domain_baseline_results.csv",
+        "SHA256":  "323161EA195B79BF911260F68E6B0D15A40D971EDECD0EBE06D97E621F5257A4",
+        "Length":  567
+    },
+    {
+        "Path":  "results\\tables\\isot_dataset_statistics.csv",
+        "SHA256":  "B262B4A488185074A12F2C636D69277A593D9D25C104BDA89C89FBE0E080EA45",
+        "Length":  77
+    },
+    {
+        "Path":  "results\\tables\\model_comparison_external.csv",
+        "SHA256":  "B726ABC22D49C4113334A6A8C8C7555713C3EC961D58F5EF2F117CD9483B7012",
+        "Length":  359
+    },
+    {
+        "Path":  "results\\tables\\near_duplicate_analysis.csv",
+        "SHA256":  "5CAED7144ED21E2FB9EF0535592C94F9EAA2417569E2FE19164F01DCEFF62D62",
+        "Length":  391
+    },
+    {
+        "Path":  "results\\tables\\roberta_evaluation.csv",
+        "SHA256":  "97B12D18EB5411C422BDA5EFD4A9FB5A115C08FE68CF121D08C947982E7532BF",
+        "Length":  657
+    },
+    {
+        "Path":  "results\\tables\\roberta_generalisation_gap.csv",
+        "SHA256":  "8F946D7127FB2A39C6990478616778D06A9974BFF532DACF67D275297725821E",
+        "Length":  228
+    },
+    {
+        "Path":  "results\\tables\\statistical_model_comparison.csv",
+        "SHA256":  "403033D48E0DB2AB016B70B39F6FFC8AC4A00E6558ABDE3DA046022FE73402E7",
+        "Length":  1464
+    },
+    {
+        "Path":  "results\\tables\\welfake_dataset_statistics.csv",
+        "SHA256":  "7D784C7B9EABDC5B29CCD5B2B9DF9BCBBF9AB79DC5CAD3BDFBE7C5F28EF90525",
+        "Length":  461
+    },
+    {
+        "Path":  "scripts\\audit_external_dataset.py",
+        "SHA256":  "4CC89954A238622BFAD4A1BD87FA7CE07DC18D98E39C881632B1A66D24BA62B9",
+        "Length":  4216
+    },
+    {
+        "Path":  "scripts\\complete_stage1_shift.py",
+        "SHA256":  "51F2699F3F1C1961AE02425FB77FFDF9A3857DCB4D0378FA3098C41DEB321DF2",
+        "Length":  15635
+    },
+    {
+        "Path":  "scripts\\run_fakenewsamt_external_evaluation.py",
+        "SHA256":  "3CEA39414A3219C9F51E000F7AF4437ED2805C8CC7A26E6810D82F3B715FB7C8",
+        "Length":  17449
+    },
+    {
+        "Path":  "scripts\\run_final_model_comparison.py",
+        "SHA256":  "272359A582244E56398AAFAC72CCA14AA8606190AA2B05E4F583684882285AB4",
+        "Length":  17428
+    },
+    {
+        "Path":  "scripts\\run_pipeline.py",
+        "SHA256":  "4F129F53FE1E30F7F9D4C6B68E3321FE485FD4955AD0C9D292E3BED79E4507DA",
+        "Length":  5105
+    },
+    {
+        "Path":  "scripts\\run_roberta_stage2b.py",
+        "SHA256":  "E5FD4F19F1D2208E709163C42D85D7B5953B5876F4376C89B21DD0C8ED8DE6D8",
+        "Length":  33222
+    },
+    {
+        "Path":  "scripts\\run_roberta_stage2b_background.cmd",
+        "SHA256":  "1F6D01213D6FAD7DC199307F0E3BE7CC0757D86771D667F1B67BFBD5E3420DA7",
+        "Length":  206
+    },
+    {
+        "Path":  "scripts\\stage1_dataset_validity.py",
+        "SHA256":  "D78062EC928A14C9BF697073F52FC0D3E2D8135C02944B3283EABFFDA73E03BA",
+        "Length":  7645
+    },
+    {
+        "Path":  "scripts\\__pycache__\\audit_external_dataset.cpython-311.pyc",
+        "SHA256":  "089EE3D4265009B09523A38380CA74CBB06B2810280FA18C4E5C4B8B171426AB",
+        "Length":  7088
+    },
+    {
+        "Path":  "scripts\\__pycache__\\complete_stage1_shift.cpython-311.pyc",
+        "SHA256":  "93109D1FE67DD12A973C1CA9AAB2A19959515B39B09CEBDB635304D971540395",
+        "Length":  27302
+    },
+    {
+        "Path":  "scripts\\__pycache__\\run_fakenewsamt_external_evaluation.cpython-311.pyc",
+        "SHA256":  "9F9064E2C05863C808BF1D2E53105C9B11A72C3D618628B6AFA1E19A4C351BA3",
+        "Length":  28693
+    },
+    {
+        "Path":  "scripts\\__pycache__\\run_pipeline.cpython-311.pyc",
+        "SHA256":  "807131C0DED3934B79EB0932EA3D6DE9224F4B8D57C85CF5AC582B4FAD6B47DF",
+        "Length":  12040
+    },
+    {
+        "Path":  "scripts\\__pycache__\\run_roberta_stage2b.cpython-311.pyc",
+        "SHA256":  "7BC5D4812E91A351AD570EB4856EC1EFD8E394928E306FC1C409BC4205FB4B42",
+        "Length":  65822
+    },
+    {
+        "Path":  "scripts\\__pycache__\\stage1_dataset_validity.cpython-311.pyc",
+        "SHA256":  "0D6A6E4FDC5A776A44274BA6AB5396D2A4CDF36E327889CD5705F6458B7AA8CD",
+        "Length":  21880
+    },
+    {
+        "Path":  "src\\config.py",
+        "SHA256":  "FF0552E437ED9061A68C745F3A28105FE3750882AD411E3C02E566B49C1C2A44",
+        "Length":  211
+    },
+    {
+        "Path":  "src\\data_loader.py",
+        "SHA256":  "8E85F72441BF7F160E731239D03F175AF3391BFBC4001200A6DC9A40BDDCE843",
+        "Length":  1110
+    },
+    {
+        "Path":  "src\\preprocessing.py",
+        "SHA256":  "2BC0B289208DA9D5DC70CE9513A28FCB6D3195A2C0D3E93CA6C7286F645CC400",
+        "Length":  646
+    },
+    {
+        "Path":  "src\\__init__.py",
+        "SHA256":  "BE0CFF230720BA6933CBB5E0FBA44649D9D12C15B88A1235FDC11626A3E93342",
+        "Length":  62
+    },
+    {
+        "Path":  "src\\__pycache__\\config.cpython-311.pyc",
+        "SHA256":  "0056920B33140FF2D2717A300B0FC91B1F41E2A8B795C0AB2C78BBBDD49B6965",
+        "Length":  531
+    },
+    {
+        "Path":  "src\\__pycache__\\data_loader.cpython-311.pyc",
+        "SHA256":  "CFC82F1F5BE36601A91EBCCC1EC40D86736FDAB5C80DF744F0CCC6C6C98E2786",
+        "Length":  1960
+    },
+    {
+        "Path":  "src\\__pycache__\\preprocessing.cpython-311.pyc",
+        "SHA256":  "7D097BEEA9478653D162C1994C77BC4251B6D1B6FA513463E18EE186565EBE3E",
+        "Length":  1807
+    },
+    {
+        "Path":  "src\\__pycache__\\__init__.cpython-311.pyc",
+        "SHA256":  "16EEDF7B618DF4761C5C8586C0D5DFCEFF6CA4CC0BD23C895C55EDEFF9816221",
+        "Length":  193
+    }
+]

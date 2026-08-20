@@ -1,0 +1,33 @@
+{
+  "model_name": "roberta-base",
+  "pretrained_source": "C:\\Dissertation\\models\\roberta-base",
+  "tokenizer": "roberta-base",
+  "seed": 42,
+  "dataset": "ISOT only until final evaluation",
+  "max_length": 64,
+  "per_device_batch_size": 2,
+  "gradient_accumulation_steps": 8,
+  "learning_rate": 2e-05,
+  "epochs": 3,
+  "optimizer": "AdamW",
+  "scheduler": "linear",
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "mixed_precision": "fp16",
+  "gradient_checkpointing": false,
+  "checkpoint_interval_steps": 500,
+  "selection_criterion": "ISOT validation Macro-F1",
+  "external_opened_after_selection": true,
+  "started_utc": "2026-08-19T06:54:22.692675+00:00",
+  "device": "cuda:0",
+  "gpu": {
+    "cuda_available": true,
+    "gpu_name": "NVIDIA GeForce GTX 1650 Ti",
+    "allocated_mb": 0.0,
+    "reserved_mb": 0.0,
+    "peak_allocated_mb": 0.0
+  },
+  "isot_train_records": 31280,
+  "isot_validation_records": 3910,
+  "isot_test_records": 3911
+}

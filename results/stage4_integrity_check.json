@@ -1,0 +1,33 @@
+{
+  "timestamp_utc": "2026-08-20T17:52:29.7271340Z",
+  "stage": "Stage 4",
+  "manifest_used": "results/stage4_pre_analysis_manifest.json",
+  "number_of_files_checked": 225,
+  "modified_files": [],
+  "missing_files": [],
+  "unchanged_files": {
+    "count": 225,
+    "all_manifest_entries_unchanged": true
+  },
+  "overall_status": "pass",
+  "confirmation_no_frozen_experiment_artefacts_modified": true,
+  "verification": {
+    "stage_1_results_unmodified": true,
+    "stage_2a_results_unmodified": true,
+    "stage_2b_roberta_model_and_results_unmodified": true,
+    "stage_3_results_unmodified": true,
+    "models_retrained": false,
+    "welfake_used": false,
+    "fakenewsamt_used_for_training_or_tuning": false,
+    "stage4_used_frozen_predictions_only": true
+  },
+  "stage4_output_verification": {
+    "report_present": true,
+    "metadata_present": true,
+    "roberta_attribution_status_present": true,
+    "expected_tables_present": 7,
+    "expected_figures_present": 7,
+    "roberta_attribution_status": "not_completed_due_to_managed_cpu_execution_limit",
+    "partial_roberta_attributions_reported": false
+  }
+}

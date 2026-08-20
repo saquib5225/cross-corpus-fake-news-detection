@@ -1,0 +1,8 @@
+{
+  "status": "not_completed",
+  "method": "Integrated Gradients over frozen selected RoBERTa input embeddings",
+  "reason": "managed CPU execution limit terminated repeated transformer gradient passes before completion",
+  "max_length": 64,
+  "seed": 42,
+  "no_partial_attributions_reported": true
+}

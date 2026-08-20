@@ -1,0 +1,9 @@
+Evaluation,Actual_class,Predicted_class,Count
+ISOT_test,fake,fake,1790
+ISOT_test,fake,real,1
+ISOT_test,real,fake,0
+ISOT_test,real,real,2120
+FakeNewsAMT_external,fake,fake,140
+FakeNewsAMT_external,fake,real,50
+FakeNewsAMT_external,real,fake,144
+FakeNewsAMT_external,real,real,96
